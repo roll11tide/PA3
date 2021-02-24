@@ -1,0 +1,16 @@
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\bin\Debug\net5.0\PA_3v3.exe
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\bin\Debug\net5.0\PA_3v3.deps.json
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\bin\Debug\net5.0\PA_3v3.runtimeconfig.json
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\bin\Debug\net5.0\PA_3v3.runtimeconfig.dev.json
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\bin\Debug\net5.0\PA_3v3.dll
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\bin\Debug\net5.0\ref\PA_3v3.dll
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\bin\Debug\net5.0\PA_3v3.pdb
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\obj\Debug\net5.0\PA_3v3.csprojAssemblyReference.cache
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\obj\Debug\net5.0\PA_3v3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\obj\Debug\net5.0\PA_3v3.AssemblyInfoInputs.cache
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\obj\Debug\net5.0\PA_3v3.AssemblyInfo.cs
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\obj\Debug\net5.0\PA_3v3.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\obj\Debug\net5.0\PA_3v3.dll
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\obj\Debug\net5.0\ref\PA_3v3.dll
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\obj\Debug\net5.0\PA_3v3.pdb
+C:\Users\jesse\Dropbox\UA\MIS 221\Programming Assignments\PA_3v3\obj\Debug\net5.0\PA_3v3.genruntimeconfig.cache

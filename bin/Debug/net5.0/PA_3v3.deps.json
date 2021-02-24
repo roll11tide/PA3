@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "PA_3v3/1.0.0": {
+        "runtime": {
+          "PA_3v3.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "PA_3v3/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
